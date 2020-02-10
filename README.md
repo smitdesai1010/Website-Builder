@@ -1,6 +1,5 @@
 # Website-Builder
-This is one the concept projects i did during my high school.
-The program i coded in C++ entirely.
+This is one of the concept projects i did during my high school.
 
 The program allows the users to build and design static websites.
 Users can add a variety of different HTML tags for their website in any order.
